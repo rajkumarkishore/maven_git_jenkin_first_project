@@ -7,5 +7,6 @@
   <h5>Automated the build process</h5>
   <h1>Lets try again</h1>
   <h3>Artifactory is configured</h3>
+  <h5>Another attempt for artifactory</h5>
 </body>
 </html>
